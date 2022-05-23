@@ -4,7 +4,7 @@
 <a href="https://instagram.com/hyrestxd"><img src="https://img.shields.io/badge/@hyrest.pwr-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
-https://discord.gg/mmYugfRv
+https://discord.gg/1953
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
